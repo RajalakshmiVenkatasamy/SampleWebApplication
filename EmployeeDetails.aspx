@@ -25,7 +25,7 @@
             <asp:GridView ID="grdStudentData" runat="server"></asp:GridView>
               <asp:GridView ID="GrdData" runat="server"></asp:GridView>
             <asp:Button ID="btnClick" runat="server" Text="Click" OnClick="btnClick_Click" />
-          
+            <asp:CheckBox ID="CheckBox1" runat="server" />
         </div>
     </form>
 </body>
